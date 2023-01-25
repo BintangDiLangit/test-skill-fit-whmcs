@@ -18,9 +18,6 @@
                             ± 1 Jt Visitor/bulan
                         </p>
                     </div>
-                    <div class="text-xs">
-                        &#9660;
-                    </div>
                 </button>
             </div>
         </div>
