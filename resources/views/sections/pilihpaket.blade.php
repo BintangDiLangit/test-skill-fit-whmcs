@@ -26,47 +26,6 @@
                         &#9660;
                     </div>
                 </button>
-                <div @click="show = false;" @click.outside="show = false;" class="dropdown-items" x-show="show" x-cloak
-                    x-transition>
-                    <a href="661.html" @click="show = !show"
-                        class="bg-white w-full border border-default flex items-center justify-between rounded py-3 px-4">
-                        <div class="flex flex-col">
-                            <div class="flex items-center gap-2">
-                                <h6 class="text-left font-bold">S1</h6>
-                                <div
-                                    class="bg-blue-100 text-blue-500 rounded text-xs py-1 px-2 text-center font-medium">
-                                    Gratis Domain .MY.ID</div>
-                            </div>
-                            <p class="text-sm font-medium mt-1 flex items-center gap-0.5 flex-wrap">
-                                ± 500 Rb Visitor/bulan
-                                | <span class="text-orange-500 font-extrabold">FREE 3</span>
-                                premium WP Plugin <span class="custom-tooltip text-orange-500"
-                                    data-tooltip="LiteSpeed Cache, Seo Premium, Whatsapp Support"><i
-                                        class="fa fa-info-circle ml-0.5"></i></span>
-                            </p>
-                        </div>
-                        <i class="fa fa-chevron-right text-xs"></i>
-                    </a>
-                    <a href="663.html" @click="show = !show"
-                        class="bg-white w-full border border-default flex items-center justify-between rounded py-3 px-4">
-                        <div class="flex flex-col">
-                            <div class="flex items-center gap-2">
-                                <h6 class="text-left font-bold">S3</h6>
-                                <div
-                                    class="bg-blue-100 text-blue-500 rounded text-xs py-1 px-2 text-center font-medium">
-                                    Gratis Domain .MY.ID / .BIZ.ID / .WEB.ID</div>
-                            </div>
-                            <p class="text-sm font-medium mt-1 flex items-center gap-0.5 flex-wrap">
-                                ± 2 Jt Visitor/bulan
-                                | <span class="text-orange-500 font-extrabold">FREE 9</span>
-                                premium WP Plugin <span class="custom-tooltip text-orange-500"
-                                    data-tooltip="LiteSpeed Cache, Wpform, Pixel Your Site, Seo Premium, Whatsapp Support, Wordfence, Ninja Popups, Smush Pro, wp-offload-media-pro"><i
-                                        class="fa fa-info-circle ml-0.5"></i></span>
-                            </p>
-                        </div>
-                        <i class="fa fa-chevron-right text-xs"></i>
-                    </a>
-                </div>
             </div>
         </div>
         <div class="w-full">
